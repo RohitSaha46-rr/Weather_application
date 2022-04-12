@@ -1,6 +1,6 @@
 import React from 'react';
 import './head.css';
-import './media1.css';
+import './media.css';
 export default function () {
   return <div className='head'>
 <div className='heading'>
