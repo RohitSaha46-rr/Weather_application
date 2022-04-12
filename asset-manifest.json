@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Weather_application/static/css/main.245e2e8e.css",
+    "main.js": "/Weather_application/static/js/main.36a3e157.js",
+    "static/media/back1.png": "/Weather_application/static/media/back1.b1cfa68fd6a4f809a62c.png",
+    "static/media/mist1.jpg": "/Weather_application/static/media/mist1.a01d71d41be2960c9568.jpg",
+    "static/media/snow1.jpg": "/Weather_application/static/media/snow1.08c6e84433d1b0472924.jpg",
+    "static/media/rain.jpg": "/Weather_application/static/media/rain.ddac94e3f3f4ea26edad.jpg",
+    "static/media/sunny.jpg": "/Weather_application/static/media/sunny.41498675055865118553.jpg",
+    "static/media/mist.jpg": "/Weather_application/static/media/mist.a8fe7253aed2c95eabbc.jpg",
+    "static/media/logo.svg": "/Weather_application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Weather_application/index.html",
+    "main.245e2e8e.css.map": "/Weather_application/static/css/main.245e2e8e.css.map",
+    "main.36a3e157.js.map": "/Weather_application/static/js/main.36a3e157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245e2e8e.css",
+    "static/js/main.36a3e157.js"
+  ]
+}
