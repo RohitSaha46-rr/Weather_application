@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './content.css';
-import './media1.css';
+import './media.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCloud, faSmog, faSnowman, faSun, faTemperatureLow } from '@fortawesome/free-solid-svg-icons';
 import cloud from './images/cloud.jpg';
