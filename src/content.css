@@ -1,0 +1,101 @@
+.content{
+    display: grid;
+    place-items: center;
+    height: 85vh;
+   
+    
+}
+.content .container{
+    width: 40vw;
+    height: 70vh;
+    
+}
+.content .container .inside{
+    width: 100vw;
+    height: 60vh;
+  
+    position: absolute;
+    left: 0px;
+    display: grid;
+    place-items: center;
+}
+.content .container .top{
+    width: 40vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.content .container .top input{
+    width: 15vw;
+    height: 5vh;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    box-shadow: 5px 5px 10px rgb(151, 147, 147);
+    outline: none;
+    border: none;
+    padding-left: 30px;
+    position: relative;
+    left: 20px;
+    color: black;
+    font-size: 1.2rem;
+   
+}
+.content .container .top i{
+    position: relative;
+    left: 3vw;
+    z-index: 1;
+}
+.content .container .top input::placeholder{
+    padding-left: 5px;
+    font-size: 1rem;
+}
+.content .container .top button{
+    position: relative;
+    left: 30px;
+    width: 5vw;
+    height: 4vh;
+    background-color: yellow;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    outline: none;
+    border: none;
+    font-weight: bolder;
+}
+.content .container .middle{
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+.content .container .middle .day{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 3rem;
+    padding-top: 10px;
+    color: #55059f;
+
+}
+.content .container .middle .day span{
+    color: red;
+}
+ .content .container .middle .day1{
+    font-size: 3rem;
+    font-family: 'PT Serif', serif;
+    padding-top: 10px;
+
+}
+.content .container .middle .day2{
+    font-size: 3rem;
+   
+
+}
+.content .container .middle .day3{
+    font-size: 2rem;
+}

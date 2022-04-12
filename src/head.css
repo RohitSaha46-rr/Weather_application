@@ -1,0 +1,19 @@
+.head .heading{
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    color: rgb(229 208 208);
+}
+.head .heading i{
+    font-size: 3rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: aqua;
+}
+.head .heading #cloud{
+    color: yellow;
+}
